@@ -1,0 +1,14 @@
+/*banner remove*/
+
+.hohDownload {
+    display: none;
+}
+
+.banner {
+    background-image: none !important;
+    background-color: rgb(36, 37, 56, 0) !important;
+}
+
+.banner .shadow {
+    background: none !important;
+}

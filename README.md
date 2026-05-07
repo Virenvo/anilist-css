@@ -6,3 +6,5 @@
 ```css
 @import url(https://virenvo.github.io/anilist-css/main.css);
 ```
+
+<sub>Got helped by Claude - I love you Claude</sub>

@@ -1,6 +1,6 @@
 # Will eventually update the README.md and the [website](https://virenvo.github.pages/anilist-css) :D
 
-# [Main.css](https://virenvo.github.pages/anilist-css/main.css)
+# [Main.css](https://virenvo.github.io/anilist-css)
 ![Preview](images/preview.png)
 
 ```css
